@@ -1,9 +1,9 @@
 function main(input) {
 
-    let NthFibNum = Fib(input);
+    let NthFibNum = fib(input);
     console.log(NthFibNum);
 
-    function Fib(n) {
+    function fib(n) {
 
         if (n == '0' || n == '1') {
 
