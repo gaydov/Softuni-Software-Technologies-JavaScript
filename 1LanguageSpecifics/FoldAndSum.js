@@ -32,6 +32,3 @@ function main(input) {
 
     console.log(result.join(' '));
 }
-
-let input =["1 2 3 4 5 6 7 8"];
-main(input);

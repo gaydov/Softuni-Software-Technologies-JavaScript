@@ -6,4 +6,3 @@ function main(input) {
     console.log(resultHex);
     console.log(resultBinary);
 }
-
