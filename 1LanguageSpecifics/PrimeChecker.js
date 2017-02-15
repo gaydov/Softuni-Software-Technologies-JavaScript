@@ -22,6 +22,13 @@ function main(input) {
             }
         }
 
-        console.log(isPrime);
+        if(isPrime) {
+            
+            console.log("True");
+        }
+        else  {
+            
+            console.log("False");
+        }
     }
 }
